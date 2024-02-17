@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class durga12 {
+public class durga12 {
+
 }
